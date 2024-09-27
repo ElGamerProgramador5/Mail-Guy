@@ -1,0 +1,16 @@
+{
+  "name": "mail-guy",
+  "version": "1.0.0",
+  "description": "un generador de recordatorios a travez de un chatbot de emails (Es un proyecto fullstack personal para poner en practica mis conocimientos de programador web)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
